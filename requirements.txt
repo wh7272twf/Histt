@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+Flask
+requests
+psutil
+pycryptodome
+protobuf-decoder
+gunicorn
+google-generativeai
